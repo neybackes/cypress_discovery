@@ -2,7 +2,9 @@ import {Given, When, Then} from "@badeball/cypress-cucumber-preprocessor";
 import {home} from '@pages/HomePage'
 
 
-  
+
+
+
 Given(/^I am on the home page$/, () => {
 	home.home_go();
 });
