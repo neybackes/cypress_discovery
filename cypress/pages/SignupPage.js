@@ -42,4 +42,4 @@ class SignupPage {
     }
 }
 
-export default new SignupPage()
+export const singup = new SignupPage();

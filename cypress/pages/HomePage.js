@@ -8,4 +8,4 @@ class HomePage {
     }
 }
 
-export default new HomePage()
+export const home= new HomePage();

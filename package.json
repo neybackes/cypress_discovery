@@ -9,8 +9,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^12.1.0",
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^12.2.0",
     "cypress-file-upload": "^5.0.8",
+    "esbuild": "^0.16.10",
     "faker": "^5.5.3",
     "gerador-validador-cpf": "^5.0.2"
   }
